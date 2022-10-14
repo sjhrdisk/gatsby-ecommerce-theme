@@ -63,6 +63,12 @@
     }
   ],
   "headerLinks": [
+      {
+      "menuLabel": "폰테크",
+      "menuLink": "http://d-cigar.com",
+      "category": null
+    },
+    
     {
       "menuLabel": "Shop",
       "menuLink": "/shop",
