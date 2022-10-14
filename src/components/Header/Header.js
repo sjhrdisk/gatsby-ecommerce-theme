@@ -1,8 +1,7 @@
 import React, { useState, useEffect, createRef } from 'react';
 import { Link, navigate } from 'gatsby';
 
-
-   <div>7667567657657567567567567567567567567    </div>
+<div>7667567657657567567567567567567567567</div>
 <meta charset="utf-8">
 <meta name="title" content="My Website">
 <meta name="url" content="https://mywebsite.com">
@@ -12,7 +11,6 @@ import { Link, navigate } from 'gatsby';
 <meta name="twitter:title" content="My Website">
 <meta property="og:description" content="This is my personal website">
 <meta property="og:title" content="My Website">
-
 
 
 import { isAuth } from '../../helpers/general';
