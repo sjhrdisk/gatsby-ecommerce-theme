@@ -1,6 +1,18 @@
 import React, { useState, useEffect, createRef } from 'react';
 import { Link, navigate } from 'gatsby';
 
+<meta charset="utf-8">
+<meta name="title" content="My Website">
+<meta name="url" content="https://mywebsite.com">
+<meta name="keywords" content="blockchain, infosec, crypto">
+<meta name="description" content="This is my personal website">
+<meta name="twitter:description" content="This is my personal website">
+<meta name="twitter:title" content="My Website">
+<meta property="og:description" content="This is my personal website">
+<meta property="og:title" content="My Website">
+
+
+
 import { isAuth } from '../../helpers/general';
 
 import AddNotification from '../AddNotification';
